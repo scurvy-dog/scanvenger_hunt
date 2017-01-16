@@ -1,28 +1,27 @@
 Monster: 1
 Monster Name: giant carnivorous plant
-Description: Growing out of the flower pot is a thick- stemmed plant with one over-sized 
-	purple bud.  The bud has teeth, and the bud undulates on its stalk as if trying to scent you. 
+Description: Growing out of the flower pot is a thick- stemmed plant with one over-sized purple bud.  The bud has teeth, and the bud undulates on its stalk as if trying to scent you.
 HP: 7
 trophy:	giant ruby colored seed
 
 Monster: 2
 Monster Name: Mike monster
-Description: From within the closet, a strange sight emerges! It is lime green, 
+Description: From within the closet, a strange sight emerges! It is lime green,
 		has long skinny limbs, and a spherical body with one bright blue eyeball.
-		It's wearing a hardhat with a sticker on it that says, 'Hi! My name is 
+		It's wearing a hardhat with a sticker on it that says, 'Hi! My name is
 		Mike'. The Mike Monster reaches out to grab you, drooling and growling.
 HP: 6
 trophy: bag of kibble
 
 Monster: 3
-Monster Name: Shambling Mound 
+Monster Name: Shambling Mound
 Description: You open the closet and out falls all around you is a veritable avalanche of stuff.
-		It takes you a moment to understand that the stuff is really a shambling mass of 
+		It takes you a moment to understand that the stuff is really a shambling mass of
 		hungry monster, as it tries to grab you by the foot.
 HP: 6
 trophy: squeeky toy
 
-Monster: 4 
+Monster: 4
 Monster Name: giant cockroach
 Description:  "It's a cockroach!  It's the size of my dining room table!!"
 HP: 7
@@ -30,10 +29,8 @@ trophy: hunk of glowing green rock
 
 Monster: 5
 Monster Name: dragon
-Description: As you look around the room, you hear a dry reptilian slither.  From behind a 
+Description: As you look around the room, you hear a dry reptilian slither.  From behind a
 		great pile of gems to your left, Athena suddenly bolts into your view, followed by
 		the head of a giant red-scaled dragon!  And oh is the dragon mad!!
-HP: 10 
+HP: 10
 trophy: golden crown
-
-

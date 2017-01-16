@@ -23,6 +23,7 @@ def load_room(rm_number):
 				# Stop reading items from rlist and return function
 				break
  			# remove field description into v and value to y
+			print item
 			v,y = item.split(':',1)
 			# remove leading or trailing white space
 			y=y.strip()

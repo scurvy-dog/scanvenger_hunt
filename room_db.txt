@@ -6,198 +6,99 @@ Puzzle: 0
 Move: 1,4,5
 
 Room: 1
-Description: You enter a room that looks like it was dug out of the hillside... by a 
-	person-sized badger.  The room is not very large, but at one end of the room 
-	there is a very large flower pot.  Growing out of the flower pot is a thick- 
-	stemmed plant with one over-sized purple bud.  The bud has teeth, and the 
-	bud undulates on its stalk as if trying to scent you.  On either side of the flower 
-	pot are two tunnels, and on the floor is a frisbee with a big bite out of one 
-	side.  
+Description: You enter a room that looks like it was dug out of the hillside... by a person-sized badger.  The room is not very large, but at one end of the room there is a very large flower pot.  Growing out of the flower pot is a thick-stemmed plant with one over-sized purple bud.  The bud has teeth, and the bud undulates on its stalk as if trying to scent you.  On either side of the flower pot are two tunnels, and on the floor is a frisbee with a big bite out of one side.
 Item: 1
 Monster: 1
 Puzzle: 0
 Move: 1,4,5
 
 Room: 2
-Description: You enter a room that looks like the lobby of Grand Central Station, complete 
-	with the huge vaulted ceiling and commuter crowd.  It is noisy, smelly, and 
-	overwhelmingly busy.  Before you can do anything, Athena and Morgan bolt off 
-	in opposite directions, barking madly.  You spend the next few minutes trying 
-	corral both dogs, but they seem to think you are playing a game of tag with them.
-	Eventually, you are able to get both dogs back to your side, tongues hanging out.
-	Morgan wants to go up the grand staircase to the left, but Athena wants to go 
-	down towards the train tracks.
+Description: You enter a room that looks like the lobby of Grand Central Station, complete with the huge vaulted ceiling and commuter crowd.  It is noisy, smelly, and overwhelmingly busy.  Before you can do anything, Athena and Morgan bolt off in opposite directions, barking madly.  You spend the next few minutes trying corral both dogs, but they seem to think you are playing a game of tag with them. Eventually, you are able to get both dogs back to your side, tongues hanging out. Morgan wants to go up the grand staircase to the left, but Athena wants to go down towards the train tracks.
 Item: 0
 Monster: 0
 Puzzle: 0
 Move: 1,4, 5
 
 Room: 3
-Description: You enter what is not a room at all, but a vast desert landscape.  The sky is 
-	impossibly blue and seems to stretch forever.  The sun is directly overhead and
-	beats down pitilessly, baking you with the scent of hot stone.  As you look 
-	around, what you at first thought as utterly featureless has what remains 
-	of a petrified forest off in the distance to the left.  Behind you is your 
-	mother's blue Buick, with a picnic basket on the hood.  Athena noses the basket 
-	and pulls a chicken bone from it.  
+Description: You enter what is not a room at all, but a vast desert landscape.  The sky is impossibly blue and seems to stretch forever.  The sun is directly overhead and beats down pitilessly, baking you with the scent of hot stone.  As you look around, what you at first thought as utterly featureless has what remains of a petrified forest off in the distance to the left.  Behind you is your mother's blue Buick, with a picnic basket on the hood.  Athena noses the basket and pulls a chicken bone from it.
 Item: 2, 3
 Monster: 0
 Puzzle: 0
 Move: 1, 4, 5
 
 Room: 4
-Description: You emerge into a long narrow hallway.  The hallway looks suspiciously like it 
-	belongs to Deck 10 of any of the Norwegian cruiseliners. It is complete with 
-	little fishes on the carpet swimming towards the bow of the vessel.  Athena 
-	immediately takes off running full tilt down the corridor.  After a few seconds
-	she banks to the port and disappears from view.  A few more seconds after that, 
-	you hear her approaching from behind.  She's still running full tilt.  She 
-	manages to lap the deck several times before coming to stop next to you, her 
-	sides heaving and her tongue lolling out of the side of her mouth in a big 
-	doggy grin.  You explore and discover that all of the doors are locked.  
-	You find the forward stairwell, however, and it appears you can go up or down. 
+Description: You emerge into a long narrow hallway.  The hallway looks suspiciously like it	belongs to Deck 10 of any of the Norwegian cruiseliners. It is complete with little fishes on the carpet swimming towards the bow of the vessel.  Athena	immediately takes off running full tilt down the corridor.  After a few seconds	she banks to the port and disappears from view.  A few more seconds after that, you hear her approaching from behind.  She's still running full tilt.  She manages to lap the deck several times before coming to stop next to you, her sides heaving and her tongue lolling out of the side of her mouth in a big doggy grin. You explore and discover that all of the doors are locked. You find the forward stairwell, however, and it appears you can go up or down.
 Item: 0
 Monster: 0
 Puzzle: 0
-Move: 3, 6 
+Move: 3, 6
 
 Room: 5
-Description: You enter another subterranean room.   The walls are rough worked stone, but it 
-	appears that someone took the time to smooth the floor and cover it with clean 
-	sand.  As you look around, something glittery catches your eye.  When you go 
-	to investigate, you discover a thick vein of snowy white quartz shot through
-	with gold.  The gold and quartz come away from the wall in a double-fisted 
-	sized hunk with a little work.  Off to the left is a bedroom door with a 
-	poster for the Pittsburgh Penguins taped to it.
+Description: You enter another subterranean room.   The walls are rough worked stone, but it appears that someone took the time to smooth the floor and cover it with clean sand.  As you look around, something glittery catches your eye.  When you go to investigate, you discover a thick vein of snowy white quartz shot through with gold.  The gold and quartz come away from the wall in a double-fisted sized hunk with a little work.  Off to the left is a bedroom door with a poster for the Pittsburgh Penguins taped to it.
 Item: 4
 Monster: 0
 Puzzle: 0
 Move: 1, 4
 
-Room: 6 
-Description: Behind the door with the Penguins poster is boy's room.  There is a bunk bed on  
-	on one wall with both beds messy.  There are a dozen or more Rubic's cube-type 
-	puzzle toys on the dresser.  They are all completed.  The hardwood floor is 
-	strangely clean and shiny for a boy's room.  On another wall is a double 
-	closet door.  The handles have been bungied together.  
+Room: 6
+Description: Behind the door with the Penguins poster is boy's room.  There is a bunk bed on one wall with both beds messy.  There are a dozen or more Rubic's cube-type puzzle toys on the dresser.  They are all completed.  The hardwood floor is strangely clean and shiny for a boy's room.  On another wall is a double closet door.  The handles have been bungied together.
 Item: 5, 6
 Monster: 2
 Puzzle: 0
-Move: 5 
-
+Move: 5
 
 Room: 7
-Description: This room looks like a teenaged girl's room, a super messy girl.  The walls are 
-	a mint green and in one corner there are tons of photos taped up in the shape 
-	of a giant heart.  From the things collected on her shelves, desk, and floor, 
-	the girl loves to read, bake, and play hockey. 
-	Morgan and Athena go up to the girl, who is playing with a yo-yo, and lick 
-	her face.  The girl is tall and her hair is black with cherry red tips.  
-	She's wearing glasses and the polish on her fingertips is very chipped.  
-	She giggles, and then asks if you want to play a game with her.  
+Description: This room looks like a teenaged girl's room, a super messy girl. The walls are a mint green and in one corner there are tons of photos taped up in the shape	of a giant heart.  From the things collected on her shelves, desk, and floor, the girl loves to read, bake, and play hockey. Morgan and Athena go up to the girl, who is playing with a yo-yo, and lick her face.  The girl is tall and her hair is black with cherry red tips. She's wearing glasses and the polish on her fingertips is very chipped. She giggles, and then asks if you want to play a game with her.
 Item: 0
 Monster: 0
 Puzzle: 1
 Move: 5
 
 Room: 8
-Description: You wriggle and crawl your way through what amounts to a narrow tunnel feeling 
-	more and more claustrophobic.  Morgan leads the way, and for a short time 
-	all you can see is Morgan's fuzzy butt working back and forth as he pushes his 
-	way through.  Suddenly his butt disappears and you are momentarily blinded by 
-	sudden sunshine.  The next thing you know, you tumble ass over teakettle down
-	a sandy dune.  When you come to rest, turquoise blue ocean stretches before you. 
-	The sand is pearly.  There's an umbrella set up with a lounge chair and a bucket of 
-	beers chilling in ice.  Athena investigates the lounge chair, and eventually
-	hops up and makes herself at home.  A little ways down the beach to the left is 
-	what appears to be a beach shack.
+Description: You wriggle and crawl your way through what amounts to a narrow tunnel feeling more and more claustrophobic.  Morgan leads the way, and for a short time all you can see is Morgan's fuzzy butt working back and forth as he pushes his way through.  Suddenly his butt disappears and you are momentarily blinded by sudden sunshine.  The next thing you know, you tumble ass over teakettle down a sandy dune.  When you come to rest, turquoise blue ocean stretches before you. The sand is pearly.  There's an umbrella set up with a lounge chair and a bucket of beers chilling in ice.  Athena investigates the lounge chair, and eventually hops up and makes herself at home.  A little ways down the beach to the left is what appears to be a beach shack.
 Item: 7
 Monster: 0
 Puzzle: 0
 Move: 1, 4, 5
 
 Room: 9
-Description: You walk along the beach for a little way until suddenly, Morgan darts off into
-	the grasses growing from the sand dunes.  You lose sight of him in the weeds, 
-	but you can hear his excited barking.  Eventually you see him just as his fuzzy
-	butt disappears into another sandy hole in the hillside.  Athena gives a bark 
-	and follows him.  You push your way into the sandy hole and emerge quite suddenly
-	in a darkened room.  As you wait for your eyes to adjust, you can hear Morgan and 
-	Athena moving around, snuffling.  Eventually you can see that you are in a box
-	in what appears to be an old baroque opera house.  The house lights are all off, 
-	save one on the stage.  If you sit to watch, you are treated to two singers
-	practicing 'The Flower Duet.'  They are very good.  After they finish, 
-	you turn leave the box, and just beyond, the corridor goes right or left.
+Description: You walk along the beach for a little way until suddenly, Morgan darts off into the grasses growing from the sand dunes.  You lose sight of him in the weeds, but you can hear his excited barking.  Eventually you see him just as his fuzzy	butt disappears into another sandy hole in the hillside.  Athena gives a bark and follows him.  You push your way into the sandy hole and emerge quite suddenly	in a darkened room.  As you wait for your eyes to adjust, you can hear Morgan and Athena moving around, snuffling.  Eventually you can see that you are in a box	in what appears to be an old baroque opera house.  The house lights are all off, save one on the stage.  If you sit to watch, you are treated to two singers	practicing 'The Flower Duet.'  They are very good.  After they finish, you turn leave the box, and just beyond, the corridor goes right or left.
 Item: 0
 Monster: 0
 Puzzle: 0
 Move: 1, 4, 5
 
-Room: 10 
-Description: You enter another subterranean passage.  A short distance ahead of you is a T-
-	intersection.  When you reach the T-intersection, you see that it goes right or left.  
-	Down the right side passage you can see that somewhat beyond, a hole has opened in 
-	the ceiling and sunlight is pouring into the passage.  Down the lefthand passage, you
-	hear singing, very faintly.  Scattered along the floor in either direction are little
-	shiny nuggets.  When you look, they appear to be gemstones.  
+Room: 10
+Description: You enter another subterranean passage.  A short distance ahead of you is a T-intersection.  When you reach the T-intersection, you see that it goes right or left.	Down the right side passage you can see that somewhat beyond, a hole has opened in the ceiling and sunlight is pouring into the passage.  Down the lefthand passage, you	hear singing, very faintly.  Scattered along the floor in either direction are little shiny nuggets.  When you look, they appear to be gemstones.
 Item: 8
 Monster: 0
 Puzzle: 0
 Move: 1, 4
 
-Room: 11 
-Description: You walk down the beach to the beach shack.  As you approach, you see that it is a 
-	very small, very neat tiny structure.  It has a small covered porch and it has been 
-	painted a screaming lime green with white trim.  The door and its tiny window looking
-	out onto the beach stand open, and you can see gauzy white curtains blowing out through
-	the open entryway.  On the porch is an adirondack chair and a tiny table, both painted 
-	tangerine.  When you enter the tiny shack, the sudden darkness overwhelms your vision for
-	a moment, and then you find yourself in an ice hockey rink.  The ice has been freshly 
-	zamboni-ed and there is a blue and white door behind the goal on the left and a red 
-	white door behind the goal on the right.
+Room: 11
+Description: You walk down the beach to the beach shack.  As you approach, you see that it is a very small, very neat tiny structure.  It has a small covered porch and it has been painted a screaming lime green with white trim.  The door and its tiny window looking	out onto the beach stand open, and you can see gauzy white curtains blowing out through the open entryway.  On the porch is an adirondack chair and a tiny table, both painted tangerine.  When you enter the tiny shack, the sudden darkness overwhelms your vision for a moment, and then you find yourself in an ice hockey rink.  The ice has been freshly	zamboni-ed and there is a blue and white door behind the goal on the left and a red white door behind the goal on the right.
 Item: 0
 Monster: 0
 Puzzle: 0
 Move: 1, 4, 5
 
 Room: 12
-Description: The room behind this door is a young boy's room.  It is small and filled with clutter.  
-	By the bed, there are stickers on the wall, and bins and boxes everywhere else are 
-	filled with books, toys, and generally stuff.  The remainder of the walls are covered
-	with hockey posters.  On the right wall there is a closet door.  The door is closed, and there's
-	a big rock propped up against the door."
+Description: The room behind this door is a young boy's room.  It is small and filled with clutter. By the bed, there are stickers on the wall, and bins and boxes everywhere else are filled with books, toys, and generally stuff.  The remainder of the walls are covered with hockey posters.  On the right wall there is a closet door.  The door is closed, and there's a big rock propped up against the door."
 Item: 9
 Monster: 3
 Puzzle: 0
 Move: 4
 
-Room: 13 
-Description: You open this door and your are surprised by an enormous cockroach, taking 
-	up most of the boy's room.  The cockroach chitters at you angrily and tries to bite Morgan."
+Room: 13
+Description: You open this door and your are surprised by an enormous cockroach, taking up most of the boy's room.  The cockroach chitters at you angrily and tries to bite Morgan."
 Item: 0
 Monster: 4
 Puzzle: 0
 Move: 5
 
 Room: 14
-Description: You travel down the corridor for what seems like an awfully long time.  The singing you
-	left behind getting fainter and fainter.  After some time, you realize that the 
-	corridor has been sloping down, and by now you must be far below the level of the opera
-	house stage.  Suddenly a doorway appears.  It looks completely improbable--an earthen 
-	tunnel opened up in the opera house corridor.  Dirt,rocks, and gold coins spill out from the 
-	doorway all over the beautiful carpet.  The fine wood paneling and tasteful wallpaper
-	has been shredded by whatever it was that dug this passage.  Morgan 
-	barks once and heads into the doorway.  Athena stays closer by your side.  At once, you
-	begin to smell the odor of sulfur. You have entered into what is a huge cavernous 
- 	room.  Far above your head, you can see fantastically carven vaulted ceilings.  As far
- 	as the eye can see there is gold, silver, and gems.  Mixed in amongst the treasure are
- 	bones... all manner of bones.  Morgan dives into a nearby pile, scattering jewels and
- 	coins everywhere, but eventually coming up with a bone in his mouth.  A very big bone.
- 	He backs out of the pile pulling the bone behind him.  And then drops the bone at your feet.  
-	Athena, in the meantime, has also disappeared.  
+Description: You travel down the corridor for what seems like an awfully long time.  The singing you left behind getting fainter and fainter.  After some time, you realize that the corridor has been sloping down, and by now you must be far below the level of the opera house stage.  Suddenly a doorway appears.  It looks completely improbable--an earthen tunnel opened up in the opera house corridor.  Dirt,rocks, and gold coins spill out from the doorway all over the beautiful carpet.  The fine wood paneling and tasteful wallpaper	has been shredded by whatever it was that dug this passage.  Morgan	barks once and heads into the doorway.  Athena stays closer by your side.  At once, you begin to smell the odor of sulfur. You have entered into what is a huge cavernous	room.  Far above your head, you can see fantastically carven vaulted ceilings.  As far as the eye can see there is gold, silver, and gems.  Mixed in amongst the treasure are bones... all manner of bones.  Morgan dives into a nearby pile, scattering jewels and coins everywhere, but eventually coming up with a bone in his mouth.  A very big bone. He backs out of the pile pulling the bone behind him.  And then drops the bone at your feet. Athena, in the meantime, has also disappeared.
 Item: 8, 10
 Monster: 5
 Puzzle: 0
 Move: 5
-
-
