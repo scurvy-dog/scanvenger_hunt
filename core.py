@@ -68,6 +68,7 @@ while game_solve != True:
 	print room_values[1]
 	print "\n"
 
+	# Get user input
 	command = cli_parser()
 
 	game_solve = True
