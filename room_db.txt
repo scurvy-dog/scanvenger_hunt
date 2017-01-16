@@ -1,0 +1,20 @@
+Room: 0
+Description: You look around and see a hillside with two holes in it.  The hole on the right looks like it was recently dug by an angry badger....if the badger was person-sized.  There is fresh dirt thrown all around this hole.  The hole on the left looks like it was dug some time ago.  Vines and tree roots cover this hole, and it looks a little tight.
+Item: 10
+Monster: 20
+Puzzle: 30
+Move: 1,3,5
+
+Room: 1
+Description: You look around and see a hillside with two holes in it.  The hole on the right looks like it was recently dug by an angry badger....if the badger was person-sized.  There is fresh dirt thrown all around this hole.  The hole on the left looks like it was dug some time ago.  Vines and tree roots cover this hole, and it looks a little tight.
+Item: 11
+Monster: 21
+Puzzle: 31
+Move: 1,3,5,7
+
+Room: 2
+Description: You look around and see a hillside with two holes in it.  The hole on the right looks like it was recently dug by an angry badger....if the badger was person-sized.  There is fresh dirt thrown all around this hole.  The hole on the left looks like it was dug some time ago.  Vines and tree roots cover this hole, and it looks a little tight.
+Item: 12
+Monster: 22
+Puzzle: 32
+Move: 1,3,5,7,9
