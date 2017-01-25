@@ -1,8 +1,8 @@
 from sys import exit
 from room import *
-from items import *
-from puzzles import *
-from monsters import *
+from item import *
+from puzzle import *
+from monster import *
 from adv_function import *
 
 #DEFINITIONS
@@ -10,6 +10,8 @@ player_inventory = []
 master_list = ["leash", "bag of kibble", "bone", "squeeky toy"]
 game_solve = False
 room_num = 0
+location = Room()
+room_id = 1
 
 #START OF GAME:
 print "Morgan and Athena's belongings were stolen by a horde of marauding goblins."
@@ -51,21 +53,21 @@ else:
 # Set looping condition to run until the game is solved
 while game_solve != True:
 	# Load The Current Room
-	room_values = load_room(room_num)
+	location.loadroom(room_id)
 	# Load any needed items
-	if room_values[2] != 0:
-		item = load_item(room_values[2])
+	if location.item != 0:
+		item = load_item(location.item)
 	# Load any needed monsters
-	if room_values[3] != 0:
-		monster = load_monster(room_values[3])
+	if location.monster != 0:
+		monster = load_monster(location.monster)
 	# Load any needed puzzles
-	if room_values[4] != 0:
-		puzzle = load_puzzle(room_values[4])
+	if location.puzzle != 0:
+		puzzle = load_puzzle(location.puzzle)
 	# Extract room exits
-	rm_exits = room_values[5]
+	rm_exits = location.exits
 
 	# Print room description
-	print room_values[1]
+	print location.description
 	print "\n"
 
 	# Get user input

@@ -27,7 +27,7 @@ class Room:
 					self.description = y.strip()
 				elif data.startswith('Item:'):
 					v,y = data.split(':',1)
-					self.data = y.strip()
+					self.item = y.strip()
 				elif data.startswith('Monster:'):
 					v,y = data.split(':',1)
 					self.monster = y.strip()
