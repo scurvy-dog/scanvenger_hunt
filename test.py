@@ -1,12 +1,10 @@
-from room import *
+from puzzle import *
 
-cRoom = Room()
+cpuzzle = Puzzle()
 
-cRoom.loadroom(1)
+cpuzzle.load_puzzle(1)
 
-print cRoom.id
-print cRoom.description
-print cRoom.item
-print cRoom.monster
-print cRoom.puzzle
-print cRoom.exits
+print "output"
+print cpuzzle.id
+print cpuzzle.name
+print cpuzzle.trophy

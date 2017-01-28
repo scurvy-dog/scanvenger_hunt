@@ -1,30 +1,29 @@
 Item Num: 1
-Item: frisbee with a bite out of the side
+Description: frisbee with a bite out of the side
 
 Item Num: 2
-Item: fried chicken drumstick
+Description: fried chicken drumstick
 
 Item Num: 3
-Item: handful of sand
+Description: handful of sand
 
 Item Num: 4
-Item: double-fisted sized piece of quartz and gold
+Description: double-fisted sized piece of quartz and gold
 
 Item Num: 5
-Item: 3X3 Rubic's cube
+Description: 3X3 Rubic's cube
 
 Item Num: 6
-Item: 5x5 Rubic's cube
+Description: 5x5 Rubic's cube
 
 Item Num: 7
-Item: bottle of beer
+Description: bottle of beer
 
 Item Num: 8
-Item: handful of gemstones
+Description: handful of gemstones
 
 Item Num: 9
-Item: hockey stick for the goalie
+Description: hockey stick for the goalie
 
 Item Num: 10
-Item: handful of gold coins
-
+Description: handful of gold coins

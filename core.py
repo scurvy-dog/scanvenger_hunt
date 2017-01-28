@@ -54,21 +54,22 @@ else:
 while game_solve != True:
 	# Load The Current Room
 	location.loadroom(room_id)
+
 	# Load any needed items
-	if location.item != 0:
+	if not location.item:
 		item = load_item(location.item)
 	# Load any needed monsters
-	if location.monster != 0:
-		monster = load_monster(location.monster)
+	if not location.monster:
+		#monster = load_monster(location.monster)
+		pass
 	# Load any needed puzzles
-	if location.puzzle != 0:
+	if not location.puzzle:
 		puzzle = load_puzzle(location.puzzle)
+		pass
 	# Extract room exits
 	rm_exits = location.exits
 
 	# Print room description
-	print location.description
-	print "\n"
 
 	# Get user input
 	command = cli_parser()

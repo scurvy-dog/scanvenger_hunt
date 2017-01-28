@@ -1,32 +1,32 @@
-# Puzzle Definitions for Scavenger Hunt
+class Puzzle:
+	def __init__ (self):
+		self.id = None
+		self.name = None
+		self.trophy = None
 
-# Define Variables
+	#Load puzzle Information from the puzzle Database
+	def load_puzzle(self,puzzle_number):
+		__filename = "puzzle_db.txt"
+		__puzzle_match = "Puzzle Num: " + str(puzzle_number)
+		__switch = False
+		self.id = puzzle_number
 
-def load_puzzle(puzzle_number):
-	filename = "puzzle_db.txt"
-	puzzle_number = "Puzzle: " + str(puzzle_number)
-	switch = False
-	x = []
+		#Open Item Database
+		with open(__filename) as fobject:
+			rlist = fobject.read().splitlines()
 
-	# Open room file
-	with open(filename) as fobject:
-		rlist = fobject.read().splitlines()
+		#Scan Item Database for the correct Item Num
+		for data in rlist:
+			if data == __puzzle_match:
+				__switch = True
 
-	for item in rlist:
-  		if item == puzzle_number:
-			# True when we find the correct room number
-			switch = True
-  		if switch:
-			if not item:
-				# Blank line will be end of room information
-				switch = False
-				# Stop reading items from rlist and return function
-				break
- 			# remove field description into v and value to y
-			v,y = item.split(':',1)
-			# remove leading or trailing white space
-			y=y.strip()
-			# Append values to list
-			x.append(y)
-			# Blank line will be end of room information
-	return(x)
+		#Retrieve Item Description
+			if __switch:
+				if data.startswith('Name:'):
+					v,y = data.split(':',1)
+					self.name = y.strip()
+				elif data.startswith('Trophy:'):
+					v,y = data.split(':',1)
+					self.trophy = y.strip()
+				elif not data:
+					break
