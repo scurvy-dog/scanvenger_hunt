@@ -1,32 +1,32 @@
-# Item Definitions for Scavenger Hunt
 
-# Define Variables
-
+#Load Item Information from the Item Database
 def load_item(item_number):
 	filename = "item_db.txt"
-	item_number = "Room: " + str(item_number)
+	item_number = "Item Num: " + str(item_number)
 	switch = False
-	x = []
-
-	# Open room file
+	#x = []
+	
+	#Open Item Database
 	with open(filename) as fobject:
 		rlist = fobject.read().splitlines()
-
+		
+	#Scan Item Database for the correct Item Num
 	for item in rlist:
-  		if item == item_number:
-			# True when we find the correct room number
+		if item == item_number:
 			switch = True
-  		if switch:
+	
+	#Retrieve Item Description	
+		if switch == True:
 			if not item:
-				# Blank line will be end of room information
 				switch = False
-				# Stop reading items from rlist and return function
 				break
- 			# remove field description into v and value to y
-			v,y = item.split(':',1)
-			# remove leading or trailing white space
-			y=y.strip()
-			# Append values to list
+			
+			v,y = item.split(':', 1)
+			y = y.strip()
 			x.append(y)
-			# Blank line will be end of room information
-	return(x)
+	
+	#Returning array with Item Description
+	return(x)				
+	
+load_item(1)
+print x	
